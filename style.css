@@ -3,3 +3,9 @@ body{
     text-align: center;
     text-transform: uppercase;
 }
+.container {
+    background: #fff;
+    margin: 0 auto;
+    padding: 1rem;
+    width: 50%;
+}
