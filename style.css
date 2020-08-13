@@ -22,6 +22,6 @@ body{
 
 fieldset{
     border: 1px solid #CCC;
-    margin: 0 auto;
+    margin: 1rem auto;
     width: 50%;
 }
